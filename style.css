@@ -56,13 +56,13 @@ body {
 
 .main p {
     color: #ffffff;
-    font-size: 20px;
+    font-size: 23px;
     font-weight: 200;
     text-indent: 32px;
     padding: 0 5px;
 }
 
-.main > ol{
+.main > ol {
     color: #ffffff;
     font-size: 20px;
     font-weight: 200;
@@ -74,11 +74,11 @@ body {
 
 .main li {
     color: white;
-    font-size: 25px;
+    font-size: 21px;
     text-align: center;
 }
 
-#ol{
+#ol {
     margin: 80px;
 }
 
@@ -123,4 +123,25 @@ img {
     border: 2px solid #ffffff;
     border-radius: 15%;
     float: right;
+}
+
+.smoke {
+    position: fixed;
+    width: 600px;
+    height: 100px;
+    right: 10px;
+    top: 86%;
+    padding: 10px;
+    background: rgba(198, 35, 35, 0.61);
+    border: 1px solid #0023ff;
+    margin: 0 auto;
+}
+
+#smokeimg{
+    width: 100px;
+    height: 100px;
+}
+
+#textSmoke{
+    font-size: 30px;
 }
