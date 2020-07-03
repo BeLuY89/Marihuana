@@ -2,6 +2,7 @@ body {
     margin: 35px;
     background-image: url("https://www.canyon-news.com/wp-content/uploads/2020/01/marijuana.jpg");
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .header {
